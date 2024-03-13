@@ -14641,7 +14641,7 @@ Object.defineProperty(window.$96, 'buildId', {
                     yellow: [255, 255, 0],
                     yellowgreen: [154, 205, 50]
                 }
-            },
+            }, 
             4680: (e, t, i) => {
                 "use strict";
                 i.d(t, {
